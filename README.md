@@ -2,7 +2,7 @@
 Using BEA'srecently released County-level GDP to construct a city-GDP.
 
 ## What
-A repurposable methodology to convert [BEA's recently released County-level GDP](https://www.bea.gov/data/gdp/gdp-county) County GDP to construct a synthetic per-City-GDP
+A repurposable methodology to convert [BEA's recently released County-level GDP](https://www.bea.gov/data/gdp/gdp-county) County GDP to construct a synthetic per-City-GDP metric across US cities.
 
 ## Why
 To assist with comparative economic analysis across US cities.
