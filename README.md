@@ -1,6 +1,11 @@
 # CityGDP
 Using BEA'srecently released County-level GDP to construct a city-GDP.
 
+Update: 3/3/2019
+A tableau dashboard using BEA data to display County level GDPs to yield comparative insights. The dashboard can be accessed here
+http://bit.ly/bea_gdp_county
+![image](https://user-images.githubusercontent.com/4397663/53706783-f6e71080-3df9-11e9-8d4f-54dc72f95b67.png)
+
 ## What
 A repurposable methodology to convert [BEA's recently released County-level GDP](https://www.bea.gov/data/gdp/gdp-county) County GDP to construct a synthetic per-City-GDP metric across US cities.
 
